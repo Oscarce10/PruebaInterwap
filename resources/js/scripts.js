@@ -1,4 +1,3 @@
-require('./bootstrap');
 $('#inputGroupFile02').on('change',function(){
     //get the file name
     var fileName = $(this).val();
